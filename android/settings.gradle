@@ -1,0 +1,3 @@
+rootProject.name = 'cool_games_101_4635'
+
+include ':app'
